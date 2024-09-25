@@ -1,4 +1,4 @@
-## 👋 Olá! Me chamo Laís Guerra ([lais-guerra :octocat: ](https://github.com/lais-guerra/lais-guerra))
+## 👋 Olá! Me chamo Laís Guerra ([lais-guerra :octocat: ](https://github.com/lais-guerra))
 
 > [!IMPORTANT]
 > Dentista especialista em Prótese Dentária e em Periodontia iniciando processo de inovação na carreira. 
