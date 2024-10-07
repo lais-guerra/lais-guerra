@@ -8,8 +8,8 @@
 
 **Curso** | **Faculdade** | **Status**
 :---: | :---: | :---:
-Odontologia | [USP](https://www1.fob.usp.br/) | 🔋
-Engenharia da Computação | [Univesp](https://univesp.br/) | 🪫
+Odontologia | [USP](https://www1.fob.usp.br/) | https://badgen.net/badge/color/estudando/orange?label=status
+Engenharia da Computação | [Univesp](https://univesp.br/) | ![status]https://badgen.net/badge/color/em andamento/orange?label=status
 
 ---
 
