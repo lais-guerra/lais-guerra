@@ -8,8 +8,10 @@
 
 **Curso** | **Faculdade** | **Status**
 :---: | :---: | :---:
-Odontologia | [USP](https://www1.fob.usp.br/) | https://badgen.net/badge/color/estudando/orange?label=status
-Engenharia da Computação | [Univesp](https://univesp.br/) | ![status]https://badgen.net/badge/color/em andamento/orange?label=status
+Odontologia | [USP](https://www1.fob.usp.br/) | ![Static Badge](https://img.shields.io/badge/-conclu%C3%ADdo-green)
+Engenharia da Computação | [Univesp](https://univesp.br/) | ![Static Badge](https://img.shields.io/badge/-em_andamento-orange)
+
+
 
 ---
 
@@ -17,10 +19,11 @@ Engenharia da Computação | [Univesp](https://univesp.br/) | ![status]https://b
 
 **Curso** | **Plataforma** | **Status**
 :---: | :---: | :---:
-Bootcamp RiHappy | [DIO](https://www.dio.me/) | 🔋
-Trilha Web e IA | [Descodificadas](https://descodificadas.com.br/) | 🪫
-Inteligência Artificial | [Google](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj84d6kstyIAxVvQEgAHdw2KgsYABABGgJjZQ&co=1&ase=2&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6PQlYFWUDjAmb9EiQQtJVxHMrJNQGpOMHYgXewba7OU7jmbo8KBowoaAmjdEALw_wcB&ohost=www.google.com&cid=CAESVeD21F_E0RVRUlZtU1MpCGC340pyzGB5a-9KpiCbSOAxX0AC1Db1GVIaIF7NphLL573V6dR-RkzpXGRdvv_-viYXXmnj5kSZAQ53Uj3CjbiK0FybLH4&sig=AOD64_0HvJ8ucQPkU4HUAzauwsUnDejYVw&q&nis=4&adurl&ved=2ahUKEwjZ9tekstyIAxW0ILkGHckbMG0Q0Qx6BAgKEAE) | 🪫
-Fullstack | [B7Web](https://lp.b7web.com.br/fullstack) | 🪫
+Bootcamp RiHappy | [DIO](https://www.dio.me/) | ![Static Badge](https://img.shields.io/badge/-conclu%C3%ADdo-green)
+Trilha Web e IA | [Descodificadas](https://descodificadas.com.br/) | ![Static Badge](https://img.shields.io/badge/-em_andamento-orange)
+Inteligência Artificial | [Google](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj84d6kstyIAxVvQEgAHdw2KgsYABABGgJjZQ&co=1&ase=2&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6PQlYFWUDjAmb9EiQQtJVxHMrJNQGpOMHYgXewba7OU7jmbo8KBowoaAmjdEALw_wcB&ohost=www.google.com&cid=CAESVeD21F_E0RVRUlZtU1MpCGC340pyzGB5a-9KpiCbSOAxX0AC1Db1GVIaIF7NphLL573V6dR-RkzpXGRdvv_-viYXXmnj5kSZAQ53Uj3CjbiK0FybLH4&sig=AOD64_0HvJ8ucQPkU4HUAzauwsUnDejYVw&q&nis=4&adurl&ved=2ahUKEwjZ9tekstyIAxW0ILkGHckbMG0Q0Qx6BAgKEAE) | ![Static Badge](https://img.shields.io/badge/-em_andamento-orange)
+Fullstack | [B7Web](https://lp.b7web.com.br/fullstack) | ![Static Badge](https://img.shields.io/badge/n%C3%A3o%20iniciado-red)
+
 
 
 
