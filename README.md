@@ -40,6 +40,7 @@ Fullstack | [B7Web](https://lp.b7web.com.br/fullstack) | 🪫
 ### 📁 Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flatsquare&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?&style=flatsquare&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flatsquare)
 ![MD](https://img.shields.io/badge/Markdown-000000?style=flatsquare&logo=markdown&logoColor=white)
 ---
 ### 🎮 Hobbies
